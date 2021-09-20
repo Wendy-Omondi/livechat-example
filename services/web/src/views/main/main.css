@@ -21,7 +21,7 @@ body {
 
 .mainBody .sidebar {
 /*   background: #1c4784; */
-  background: #001cdb4;
+  background: purple;
   height: auto;
   flex: 0 0 200px;
 }
